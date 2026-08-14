@@ -61,10 +61,10 @@ export const projects = [
     tag: null as string | null,
     specs: [
       ["Total Land", "1000 Sq. Yards"],
-      ["Floors", "7 Floors"],
+      ["Floors", "C+G+6 Floors"],
       ["Per Floor", "4 Flats Per Floor"],
       ["Flat Size", "1265 SFT"],
-      ["Total Flats", "28"],
+      ["Total Flats", "24"],
       ["Facing", "Premium"],
     ],
   },
