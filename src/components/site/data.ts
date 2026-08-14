@@ -13,7 +13,7 @@ export const projects = [
     tag: "Now Selling" as string | null,
     specs: [
       ["Location", "ORR Exit 07 · 2 Min"],
-      ["Floors", "G+6 Floors"],
+      ["Floors", "5 Floors"],
       ["Per Floor", "2 Flats (3BHK)"],
       ["Flat Size", "1930 SFT"],
       ["Total Flats", "12"],
