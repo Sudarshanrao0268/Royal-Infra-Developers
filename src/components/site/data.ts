@@ -9,7 +9,7 @@ export const projects = [
     type: "3BHK Luxury Apartments",
     blurb: "Just 2 minutes from ORR Exit 07 — expansive 1930 SFT luxury homes.",
     image: county,
-    price: "₹4,200",
+    price: "₹3,999",
     tag: "Now Selling" as string | null,
     specs: [
       ["Location", "ORR Exit 07 · 2 Min"],
@@ -41,7 +41,7 @@ export const projects = [
     type: "3BHK Apartments",
     blurb: "Our newest launch — refined East/West facing homes.",
     image: avenue,
-    price: "₹4,499",
+    price: "₹4,199",
     tag: "New Launch",
     specs: [
       ["Total Land", "500 Sq. Yards"],
@@ -57,7 +57,7 @@ export const projects = [
     type: "2BHK Apartments Only",
     blurb: "Spacious 2BHK living in a grand gated community.",
     image: kingdom,
-    price: "₹4,499",
+    price: "₹4,199",
     tag: null as string | null,
     specs: [
       ["Total Land", "1000 Sq. Yards"],
